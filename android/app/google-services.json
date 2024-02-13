@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "480225464844",
+    "project_id": "m3kapp-6afe0",
+    "storage_bucket": "m3kapp-6afe0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480225464844:android:ada03152b94a6759441429",
+        "android_client_info": {
+          "package_name": "com.makapp.mak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSv7dyS_UG1LKbeUHhmNU8igwkxpD6tm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

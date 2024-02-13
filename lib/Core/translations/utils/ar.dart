@@ -1,0 +1,62 @@
+const Map<String, String> ar = {
+
+  //User
+  'kStartNow':'ابدأ الآن',
+  'kWeAdvanceWithTechnology':'بالتقنية نتقدم',
+  'kEaseAndCommunication':'سهولة وتواصل',
+  'kDescOnBoardingTwo':'منصة التواصل والتمكين لدعم أفضل والتمكين من تحقيق المشاركة الفعّالة في الحياة',
+  'kThePowerOfExcellence':'قوة التميز',
+  'kDescOnBoardingThree':'تطبيق يهدف إلى تعزيز القدرات والمهارات وتوفير بيئة شاملة تشجع على التواصل والتطور الشخصي',
+  'kBeneficiaryOrCompanion':'مستفيد أو مرافق',
+  'kDescSelectLogin':'استخدام التطبيق يمنحك القرار بين تجربة المستفيد ودور المرافق، حيث يمكنك اختيار الوظيفة المناسبة لك وفقًا لاحتياجاتك ومهاراتك، مما يجعلك المسؤول عن تحقيق توازن مثالي بين الاستفادة وتقديم الخدمات',
+  'kBeneficiary':'مستفيد',
+  'kAmenities':'مرافق',
+
+  'kSignIn':'تسجبل الدخول',
+  'kPhoneNumber':'رقم الهاتف',
+  'kPassword':'كلمة المرور',
+  'kForgotYourPassword':'نسيت كلمة المرور ؟',
+  'kEntrance':'دخول',
+  'kRegistration':'تسجيل',
+  'kLoginConfirmationCode':'رمز تأكيد الدخول',
+  'kTypeTheConfirmationCodeThatWasSentToTheNumber':'قم بكتابة رمز التأكيد الذي تم ارساله الى الرقم ',
+  'kDidNotReceiveTheCode':'لم تستلم الرمز ؟ ',
+  'kResend':'إعادة إرسال',
+  'kToBeSure':'تأكيد',
+  'kNewAccount':'حساب جديد',
+  'kName':'الاسم',
+  'kEmail':'البريد الالكتروني',
+  'kConfirmPassword':'تأكيد كلمة المرور',
+  'kTypeOfDisabilityOrInjury':'نوع الإعاقة أو الاصابه',
+  'kAge':'العمر',
+  'kSex':'الجنس',
+  'kMale':'ذكر',
+  'kFeminine':'انثى',
+  'kAddPhoto':'اضافة صورة ( اختيارى )',
+  'kIAgreeToTheTermsAndConditions':'أوافق على الشروط والأحكام',
+  'kSuccessfullyRegistered':'تم التسجيل بنجاح',
+  'kOK':'موافق',
+  'kToReject':'رفض',
+  'kNationality':'الجنسية',
+  'kNationalIdentity':'الهويه الوطنية',
+  'kCity':'المدينة',
+  'kChooseTheService':'اختار الخدمه',
+  'kTheRegistrationRequestHasBeenSentToTheAdministration':'تم ارسال طلب التسجيل للاداره ',
+  'kWeWillContactYouAsSoonAsPossible':'سيتم التواصل معك فى اقرب وقت',
+  'kFieldRequired':'الحقل مطلوب',
+  'kTheOperationFailedTryAgainLater':'فشلت العمليه حاول في وقت لاحق',
+  'kYouMustAgreeToTheTermsAndConditions':'يجب الموفقة علي الشروط والاحكام',
+  'kTheTwoPasswordsDoNotMatch':'كلمتا المرور غير مطابقان',
+
+  //layout
+  'kMain':'الرئيسية',
+  'kReservations':'الحجوزات',
+  'kNotifications':'الإشعارات',
+  'kEscorts':'المرافقين',
+  'kOrder':'الطلبات',
+  'kPackages':'الباقات',
+
+
+
+
+};

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDZibaoXGOU6wdJ_HkHrT0HD81K7gI95M0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>480225464844</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.makapp.mak</string>
+	<key>PROJECT_ID</key>
+	<string>m3kapp-6afe0</string>
+	<key>STORAGE_BUCKET</key>
+	<string>m3kapp-6afe0.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:480225464844:ios:790ef0a37228e34c441429</string>
+</dict>
+</plist>
